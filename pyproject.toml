@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fyze-logger"            # PyPI package name
+version = "0.1.0"
+description = "A logger package for FyZe projects"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [{name="FyZe", email="aattacker994@gmail.com"}]
+dependencies = []
+
+[project.urls]
+"Homepage" = "https://github.com/yourusername/fyze-logger"
+"Repository" = "https://github.com/yourusername/fyze-logger"
