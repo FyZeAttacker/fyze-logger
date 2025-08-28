@@ -9,7 +9,7 @@ Perfect for terminal applications, debugging, and keeping your logs looking **co
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/fyze-logger.git
+git clone https://github.com/FyZeAttacker/fyze-logger.git
 cd fyze-logger
 pip install -r requirements.txt
 ```
